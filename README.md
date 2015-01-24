@@ -1,2 +1,2 @@
 # datasciencecoursera
-data science courser material 
+data science coursera material 
